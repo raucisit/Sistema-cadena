@@ -5,3 +5,5 @@
 Para ejecutar el stema, debes poner:
 
 ```npm intall react```
+
+Actualice readme
