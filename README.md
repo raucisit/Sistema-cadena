@@ -7,3 +7,4 @@ Para ejecutar el stema, debes poner:
 ```npm intall react```
 
 Actualice readme
+Sistema de registo 2
